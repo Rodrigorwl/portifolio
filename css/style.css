@@ -1,0 +1,20 @@
+
+@import './global.css';
+@import './header.css';
+@import './introducao.css';
+@import './experiencia.css';
+@import './formacao.css';
+@import './footer.css';
+
+
+
+
+:root {
+  --c0r1: #11ace2;
+  --c0r2: #46d0f4;
+  --c0r3: #141414;
+  --c0r4: #fefefe;
+  --c0r5: #d6f7ff;
+  --c0r6: #a3a3a3;
+}
+
