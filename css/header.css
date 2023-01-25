@@ -29,6 +29,7 @@
   text-transform: uppercase;
   flex-wrap: wrap;
   justify-content: center;
+
 }
 
   
@@ -42,6 +43,8 @@
   display: block;
   line-height: 1,3rem;
   border-radius: 4px;
+  color: var(--c0r3);
+  font-weight: 400;
   
 }
 
@@ -62,6 +65,7 @@
 @media (max-width: 600px) {
   .header h1 {
     order: 1;
+    color: var(--c0r3);
   }
 }
 
